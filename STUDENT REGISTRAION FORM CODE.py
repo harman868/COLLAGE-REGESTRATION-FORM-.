@@ -10,7 +10,7 @@ st.set_page_config(
 st.markdown("<h1 style='text-align:center;'>🎓 SWAMI PREMANAD MAHAVIDYALAYA  </h1>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align:center;'>Student Registration Form</h4>", unsafe_allow_html=True)
 
-st.image("image/OIP.jpg",caption="College Logo", width=150)
+st.image("OIP.jpg",caption="College Logo", width=150)
 
 st.markdown("---")
 
